@@ -1,5 +1,7 @@
 ## Welcome ⭐
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+
 ## Projects
 - [🎵 3D로 보는 개인 플레이리스트 공간 - SoundSpace](https://github.com/pknu-wap/2023_1_WAP_WEB_TEAM2)
 
