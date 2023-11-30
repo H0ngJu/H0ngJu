@@ -21,11 +21,6 @@
 - 🐋 부경대 학생들을 위한 어플 - 부림이
 
 
-### 하고싶은 프로젝트에 대한 설명(OSS assignment)
-#
-기프티콘 중고거래 어플 : KeepCon(Keep your GiftCon 개발
-
-
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H0ngJu&show_icons=true&theme=radical)
 
