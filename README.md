@@ -20,6 +20,8 @@
 
 - 🐋 부경대 학생들을 위한 어플 - 부림이
 
+- [👴 경증 치매 노인분들을 위한 기억노트 - ATTI](https://github.com/H0ngJu/atti)
+
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H0ngJu&show_icons=true&theme=radical)
