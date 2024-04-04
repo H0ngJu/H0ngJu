@@ -1,7 +1,25 @@
 ## Welcome ⭐
 
 
-## 🤓 Skill
+🖥️ "1px만 옮겨주세요"를 이해하는 개발자
+<br/>
+
+## Experience
+
+> 2022.09 ~     부경대 프로그래밍 동아리 (WAP)
+> 
+> 2023.03 ~     Google Developer Student Club(GDSC)
+> 
+> 2023.10 ~     Notion Club in PKNU
+> 
+> 2023.10       가을 대학생 디자인 학술발표대회(DSUS) 논문 1저자 투고
+> 
+> 2024.01 ~     WAP 임원
+> 
+> 2024.03.30    Make Story with Notion 주최 / 운영진
+>
+
+## Skill 🤓 
 <div align = "center"><img src="https://img.shields.io/badge/JavaScript-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
@@ -18,9 +36,12 @@
 
 - [♿ 교통약자를 위한 지도 어플 - Rolling Together](https://github.com/Rolling-Together/RollingTogether)
 
+- 🎁 당신의 기프티콘 지킴이 - Keep-Con
+
 - 🐋 부경대 학생들을 위한 어플 - 부림이
 
 - [👴 경증 치매 노인분들을 위한 기억노트 - ATTI](https://github.com/H0ngJu/atti)
+
 
 
 #
