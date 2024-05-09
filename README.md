@@ -30,7 +30,7 @@
 
 
 ## Projects
-- [🎵 3D로 보는 개인 플레이리스트 공간 - SoundSpace](https://github.com/pknu-wap/2023_1_WAP_WEB_TEAM2)
+- [🎵 3D로 보는 개인 플레이리스트 공간 WEB- SoundSpace](https://github.com/pknu-wap/2023_1_WAP_WEB_TEAM2)
 
 - [📚 WAP 책 대여 어플 - 대여대여](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM3)
 
