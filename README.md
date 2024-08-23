@@ -46,7 +46,7 @@
 
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H0ngJu&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H0ngJu&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ice_01)](https://solved.ac/ice_01/)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H0ngJu&layout=compact&theme=tokyonight)-->
 
