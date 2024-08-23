@@ -18,7 +18,7 @@
 > 
 > 2024.03.30    Make Story with Notion 주최 / 운영진
 >
-> 2024.04 ~     Google Solution Challenge Top 100 Winner
+> 2024.07       한국 최초 Google Solution Challenge Top 3
 
 ## Skill 🤓 
 <div align = "center"><img src="https://img.shields.io/badge/JavaScript-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
