@@ -12,13 +12,21 @@
 > 
 > 2023.10 ~     Notion Club in PKNU
 > 
-> 2023.10 ~       가을 대학생 디자인 학술발표대회(DSUS) 논문 1저자 투고
+> 2023.10 -       가을 대학생 디자인 학술발표대회(DSUS) 논문 1저자 투고
 > 
-> 2024.01 ~     WAP 운영진
+> 2024.01 ~ 12    WAP 운영진
 > 
 > 2024.03 ~    Make Story with Notion 주최 / 운영진
 >
-> 2024.07 ~       Google Solution Challenge 최종 우승
+> 2024.06.27 -        🏆Google Solution Challenge 최종 우승🏆
+>
+> 2024.07 -      미국 어학연수 (Bosie State Univ.)
+>
+> 2024.08.02 -    🎤SeSAC JOB FESTIVAL 연사🎤
+>
+> 2024.11.25 -     🏆ICT 이노베이션스퀘어 대상🏆
+>
+> 2024.12.21 -     🎤DevFest Busan 연사🎤
 
 ## Skill 🤓 
 <div align = "center"><img src="https://img.shields.io/badge/JavaScript-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
