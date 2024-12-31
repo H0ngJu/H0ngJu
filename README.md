@@ -20,7 +20,7 @@
 >
 > 2024.06.27 -        🏆Google Solution Challenge 최종 우승🏆
 >
-> 2024.07 -      미국 어학연수 (Bosie State Univ.)
+> 2024.07 -      미국 어학연수 (Boise State Univ.)
 >
 > 2024.08.02 -    🎤SeSAC JOB FESTIVAL 연사🎤
 >
