@@ -18,15 +18,19 @@
 > 
 > 2024.03 ~    Make Story with Notion 주최 / 운영진
 >
-> 2024.06.27 -        🏆Google Solution Challenge 최종 우승🏆
+> 2024.06.27 -        🏆 Google Solution Challenge 최종 우승 🏆
 >
 > 2024.07 -      미국 어학연수 (Boise State Univ.)
 >
-> 2024.08.02 -    🎤SeSAC JOB FESTIVAL 연사🎤
+> 2024.08.02 -    🎤 SeSAC JOB FESTIVAL 연사 🎤
 >
-> 2024.11.25 -     🏆ICT 이노베이션스퀘어 대상🏆
+> 2024.11.25 -     🏆 ICT 이노베이션스퀘어 대상 🏆
 >
-> 2024.12.21 -     🎤DevFest Busan 연사🎤
+> 2024.12.21 -     🎤 DevFest Busan 연사 🎤
+>
+> 2025.01.06 - 🔬 CES 2025 참관 🔬
+>
+> 2025.02 ~ 🪐 woowacourse 7th FE 🪐
 
 ## Skill 🤓 
 <div align = "center"><img src="https://img.shields.io/badge/JavaScript-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
