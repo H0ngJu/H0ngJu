@@ -18,7 +18,7 @@
 > 
 > 2024.03 ~    Make Story with Notion 주최 / 운영진
 >
-> 2024.06.27 -        🏆 Google Solution Challenge 최종 우승 🏆
+> 2024.06.27 -        🏆 Google Solution Challenge 한국 최초 최종 우승 🏆
 >
 > 2024.07 -      미국 어학연수 (Boise State Univ.)
 >
