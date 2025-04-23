@@ -11,10 +11,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Sep 2022 ~ Present)  
   &nbsp;&nbsp;&nbsp;&nbsp;∙ Executive Member (Jan 2024 ~ Dec 2024)  
 - **Google Developer Student Club (GDSC)**  
-  &nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Mar 2023 ~ Present)  
+  &nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Mar 2023 ~ Dec 2024)
+  &nbsp;&nbsp;&nbsp;&nbsp;∙ Senior (Mar 2025 ~ Present)  
 - **Notion Club in PKNU**  
-  &nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Oct 2023 ~ Present)  
-  &nbsp;&nbsp;&nbsp;&nbsp;∙ Organizer of *Make Story with Notion* (Mar 2024 ~ Present)
+  &nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Oct 2023 ~ Jul 2024)  
+  &nbsp;&nbsp;&nbsp;&nbsp;∙ Organizer of *Make Story with Notion* (Mar 2024)
 
 ### 🧪 Research & Awards  
 - 📝 *First author* – Research paper presented at DSUS Fall Design Academic Conference (Oct 2023)  
@@ -23,8 +24,8 @@
 
 ### 🎤 Speaker & Global Activity  
 - 🌍 *Boise State University* – U.S. Language Program (Jul 2024)  
-- 🎤 *SeSAC JOB FESTIVAL* – Guest Speaker (Aug 2, 2024)  
-- 🎤 *DevFest Busan* – Guest Speaker (Dec 21, 2024)  
+- 🎤 *SeSAC JOB FESTIVAL* – Speaker (Aug 2, 2024)  
+- 🎤 *DevFest Busan* – Speaker (Dec 21, 2024)  
 - 🔬 *CES 2025* – Attendee (Jan 6, 2025)
 
 ### 🚀 Career Development  
