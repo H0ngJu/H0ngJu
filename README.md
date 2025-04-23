@@ -1,36 +1,35 @@
 ## Welcome ⭐
 
 
-🖥️ "1px만 옮겨주세요"를 이해하는 개발자
+🖥️ A developer who understands “Can you move it just 1px?”
 <br/>
 
-## Experience
+## 🛠️ Experience
 
-> 2022.09 ~     부경대 프로그래밍 동아리 (WAP)
-> 
-> 2023.03 ~     Google Developer Student Club(GDSC)
-> 
-> 2023.10 ~     Notion Club in PKNU
-> 
-> 2023.10 -       가을 대학생 디자인 학술발표대회(DSUS) 논문 1저자 투고
-> 
-> 2024.01 ~ 12    WAP 운영진
-> 
-> 2024.03 ~    Make Story with Notion 주최 / 운영진
->
-> 2024.06.27 -        🏆 Google Solution Challenge 한국 최초 최종 우승 🏆
->
-> 2024.07 -      미국 어학연수 (Boise State Univ.)
->
-> 2024.08.02 -    🎤 SeSAC JOB FESTIVAL 연사 🎤
->
-> 2024.11.25 -     🏆 ICT 이노베이션스퀘어 대상 🏆
->
-> 2024.12.21 -     🎤 DevFest Busan 연사 🎤
->
-> 2025.01.06 - 🔬 CES 2025 참관 🔬
->
-> 2025.02 ~ 🪐 woowacourse 7th FE 🪐
+### 💻 Clubs & Community  
+- **WAP (Pukyong National University Programming Club)**  
+  &nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Sep 2022 ~ Present)  
+  &nbsp;&nbsp;&nbsp;&nbsp;∙ Executive Member (Jan 2024 ~ Dec 2024)  
+- **Google Developer Student Club (GDSC)**  
+  &nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Mar 2023 ~ Present)  
+- **Notion Club in PKNU**  
+  &nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Oct 2023 ~ Present)  
+  &nbsp;&nbsp;&nbsp;&nbsp;∙ Organizer of *Make Story with Notion* (Mar 2024 ~ Present)
+
+### 🧪 Research & Awards  
+- 📝 *First author* – Research paper presented at DSUS Fall Design Academic Conference (Oct 2023)  
+- 🏆 *Google Solution Challenge 2024* – First Korean Final Winner (Jun 27, 2024)  
+- 🏆 *ICT Innovation Square 2024* – Grand Prize Winner (Nov 25, 2024)
+
+### 🎤 Speaker & Global Activity  
+- 🌍 *Boise State University* – U.S. Language Program (Jul 2024)  
+- 🎤 *SeSAC JOB FESTIVAL* – Guest Speaker (Aug 2, 2024)  
+- 🎤 *DevFest Busan* – Guest Speaker (Dec 21, 2024)  
+- 🔬 *CES 2025* – Attendee (Jan 6, 2025)
+
+### 🚀 Career Development  
+- 🪐 *Woowacourse 7th Frontend Track* – Participant (Feb 2025 ~)
+
 
 ## Skill 🤓 
 <div align = "center"><img src="https://img.shields.io/badge/JavaScript-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
@@ -43,17 +42,18 @@
 
 
 ## Projects
-- [🎵 3D로 보는 개인 플레이리스트 공간 WEB- SoundSpace](https://github.com/pknu-wap/2023_1_WAP_WEB_TEAM2)
 
-- [📚 WAP 책 대여 어플 - 대여대여](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM3)
+- [🎵 A 3D Personalized Playlist Webspace- SoundSpace](https://github.com/pknu-wap/2023_1_WAP_WEB_TEAM2)
 
-- [♿ 교통약자를 위한 지도 어플 - Rolling Together](https://github.com/Rolling-Together/RollingTogether)
+- [📚 Book Rental App for WAP - 대여대여](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM3)
 
-- 🎁 당신의 기프티콘 지킴이 - Keep-Con
+- [♿ Map App for Transportation-Vulnerable - Rolling Together](https://github.com/Rolling-Together/RollingTogether)
 
-- [🐋 부경대 학생들을 위한 어플 - 부림이](https://github.com/GDSC-PKNU-Official/pknu-notice-front)
+- 🎁 Gifticon Management Service - Keep-Con
 
-- [👴 경증 치매 환자들을 위한 기억노트 - ATTI](https://github.com/H0ngJu/atti)
+- [🐋 App for PKNU Students - 부림이](https://github.com/GDSC-PKNU-Official/pknu-notice-front)
+
+- [👴 Memory Journal App for Early Dementia Patients - ATTI](https://github.com/H0ngJu/atti)
 
 
 
