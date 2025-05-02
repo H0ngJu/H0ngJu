@@ -29,7 +29,7 @@
 - 🔬 *CES 2025* – Attendee (Jan 6, 2025)
 
 ### 🚀 Career Development  
-- 🪐 *Woowacourse 7th Frontend Track* – Participant (Feb 2025 ~)
+- 🪐 *Woowacourse 7th Frontend Track* (Feb 2025 ~)
 
 
 ## Skill 🤓 
