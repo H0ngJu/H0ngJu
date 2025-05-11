@@ -11,7 +11,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Sep 2022 ~ Present)  
   &nbsp;&nbsp;&nbsp;&nbsp;∙ Executive Member (Jan 2024 ~ Dec 2024)  
 - **Google Developer Student Club (GDSC)**  
-  &nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Mar 2023 ~ Dec 2024)
+  &nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Mar 2023 ~ Dec 2024)<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;∙ Senior (Mar 2025 ~ Present)  
 - **Notion Club in PKNU**  
   &nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Oct 2023 ~ Jul 2024)  
