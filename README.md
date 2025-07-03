@@ -44,17 +44,17 @@
 
 ## Projects
 
-- [🎵 A 3D Personalized Playlist Webspace- SoundSpace](https://github.com/pknu-wap/2023_1_WAP_WEB_TEAM2)
+- [👴 Memory Journal App for Early Dementia Patients - ATTI](https://github.com/H0ngJu/atti) (Jan 2024 ~ Jan 2025)
 
-- [📚 Book Rental App for WAP - 대여대여](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM3)
+- [🐋 App for PKNU Students - 부림이](https://github.com/GDSC-PKNU-Official/pknu-notice-front) (Oct 2023 ~ Feb 2024)
 
-- [♿ Map App for Transportation-Vulnerable - Rolling Together](https://github.com/Rolling-Together/RollingTogether)
+- 🎁 Gifticon Management Service - Keep-Con (Jul 2023 ~ Sep 2023)
 
-- 🎁 Gifticon Management Service - Keep-Con
+- [🎵 A 3D Personalized Playlist Webspace- SoundSpace](https://github.com/pknu-wap/2023_1_WAP_WEB_TEAM2) (Mar 2023 ~ Jun 2023)
 
-- [🐋 App for PKNU Students - 부림이](https://github.com/GDSC-PKNU-Official/pknu-notice-front)
+- [♿ Map App for Transportation-Vulnerable - Rolling Together](https://github.com/Rolling-Together/RollingTogether) (Jan 2023 ~ Mar 2023)
 
-- [👴 Memory Journal App for Early Dementia Patients - ATTI](https://github.com/H0ngJu/atti)
+- [📚 Book Rental App for WAP - 대여대여](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM3) (Sep 2022 ~ Dec 2022)
 
 
 
