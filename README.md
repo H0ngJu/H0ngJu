@@ -44,6 +44,10 @@
 
 ## Projects
 
+- [Forgather](https://github.com/woowacourse-teams/2025-PhotoGather) (Jul 2025 ~ ing)
+
+- [PKNU VCD Graduation Exhibition](https://github.com/PKNU-VCD/pknu-vcd-fe) (Jul 2025 ~ Oct 2025)
+
 - [👴 Memory Journal App for Early Dementia Patients - ATTI](https://github.com/H0ngJu/atti) (Jan 2024 ~ Jan 2025)
 
 - [🐋 App for PKNU Students - 부림이](https://github.com/GDSC-PKNU-Official/pknu-notice-front) (Oct 2023 ~ Feb 2024)
