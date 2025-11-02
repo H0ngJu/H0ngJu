@@ -21,6 +21,7 @@
 - 📝 *First author* – Research paper presented at DSUS Fall Design Academic Conference (Oct 2023)  
 - 🏆 *Google Solution Challenge 2024* – First Korean Final Winner (Jun 27, 2024)  
 - 🏆 *ICT Innovation Square 2024* – Grand Prize Winner (Nov 25, 2024)
+- 🥕 Daangn Builder's Camp - 3rd Prize Winner (Sep 21, 2025)
 
 ### 🎤 Speaker & Global Activity  
 - 🌍 *Boise State University* – U.S. Language Program (Jul 2024)  
