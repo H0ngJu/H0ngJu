@@ -57,10 +57,6 @@
 
 - [🎵 A 3D Personalized Playlist Webspace- SoundSpace](https://github.com/pknu-wap/2023_1_WAP_WEB_TEAM2) (Mar 2023 ~ Jun 2023)
 
-- [♿ Map App for Transportation-Vulnerable - Rolling Together](https://github.com/Rolling-Together/RollingTogether) (Jan 2023 ~ Mar 2023)
-
-- [📚 Book Rental App for WAP - 대여대여](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM3) (Sep 2022 ~ Dec 2022)
-
 
 
 #
